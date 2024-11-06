@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Ku449 Trang chủ đăng nhập Kubet, Đại Lý Ku bet Casino
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Ku449 <https://ku449.com/>`_ là trang chủ đăng nhập nhà cái Kubet. Kubet là nhà cái trực tuyến hàng đầu Việt Nam. Năm 2024, chúng tôi vinh dự trở thành đại lý độc quyền của Ku Bet Casino tại Việt Nam
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 26a Nguyễn Thị Tú, Vĩnh Lộc B, Bình Chánh, Hồ Chí Minh, Vietnam. 
 
-   This project is under active development.
+Phone: 0897645323. 
 
-Contents
---------
+Email: info@ku449.com. 
 
-.. toctree::
+Website: https://ku449.com/ 
 
-   usage
-   api
+#kubet #trangchudangnhapkubet #ku449#daily_kubet #ku444_com
